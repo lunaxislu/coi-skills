@@ -1,0 +1,20 @@
+{
+  "name": "coi-skills",
+  "owner": {
+    "name": "lunaxislu",
+    "url": "https://github.com/lunaxislu"
+  },
+  "description": "Portable Agent Skills for design-grounded engineering changes and document structure review.",
+  "plugins": [
+    {
+      "name": "design-grounded-changes",
+      "source": "./skills/design-grounded-changes",
+      "description": "Design, implement, or review software and documentation changes from observed needs and existing system capabilities."
+    },
+    {
+      "name": "theseus",
+      "source": "./skills/theseus",
+      "description": "Create, delete, structurally review, design, or refine durable documents, documentation rules, authoring guides, templates, and review feedback."
+    }
+  ]
+}

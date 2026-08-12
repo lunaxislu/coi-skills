@@ -1,0 +1,13 @@
+{
+  "name": "theseus",
+  "description": "Create, delete, structurally review, design, or refine durable documents, documentation rules, authoring guides, templates, and review feedback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunaxislu",
+    "url": "https://github.com/lunaxislu"
+  },
+  "homepage": "https://github.com/lunaxislu/coi-skills",
+  "repository": "https://github.com/lunaxislu/coi-skills",
+  "license": "MIT",
+  "keywords": ["documentation", "information-architecture", "review", "authoring", "template"]
+}

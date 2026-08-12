@@ -1,0 +1,13 @@
+{
+  "name": "design-grounded-changes",
+  "description": "Design, implement, or review software and documentation changes from observed needs and existing system capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunaxislu",
+    "url": "https://github.com/lunaxislu"
+  },
+  "homepage": "https://github.com/lunaxislu/coi-skills",
+  "repository": "https://github.com/lunaxislu/coi-skills",
+  "license": "MIT",
+  "keywords": ["design", "verification", "yagni", "engineering-process"]
+}
