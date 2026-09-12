@@ -4,7 +4,7 @@
     "name": "lunaxislu",
     "url": "https://github.com/lunaxislu"
   },
-  "description": "Portable Agent Skills for design-grounded engineering changes and document structure review.",
+  "description": "Portable skills for engineering changes, document structure, and execution flow mapping.",
   "plugins": [
     {
       "name": "design-grounded-changes",
@@ -15,6 +15,11 @@
       "name": "theseus",
       "source": "./skills/theseus",
       "description": "Create, delete, structurally review, design, or refine durable documents, documentation rules, authoring guides, templates, and review feedback."
+    },
+    {
+      "name": "coi-skills",
+      "source": "./",
+      "description": "Portable skills for engineering changes, document structure, and execution flow mapping."
     }
   ]
 }

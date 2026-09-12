@@ -1,0 +1,13 @@
+{
+  "name": "coi-skills",
+  "version": "1.0.0",
+  "description": "Portable skills for engineering changes, document structure, and execution flow mapping.",
+  "author": {
+    "name": "lunaxislu",
+    "url": "https://github.com/lunaxislu"
+  },
+  "skills": "./skills/",
+  "homepage": "https://github.com/lunaxislu/coi-skills",
+  "repository": "https://github.com/lunaxislu/coi-skills",
+  "license": "MIT"
+}
