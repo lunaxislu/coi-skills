@@ -30,6 +30,19 @@ separate tasks.
 
 [Detailed usage guide](skills/execution-flow-map/README.md)
 
+### [flow-notes](skills/flow-notes/SKILL.md)
+
+Explain features, events, lifecycles, protocols, and architectures through engineering notes
+centered on execution order, actors, data transfer, state changes, and causality. Also use to
+organize established system behavior from supplied conversations, code, logs, and documents.
+
+### [tech-lab](skills/tech-lab/SKILL.md)
+
+Help users learn technology by writing and running minimal code and observing concrete evidence.
+Supports first-time learning, individual APIs, continuation, confusion resolution, and explicit
+`quick:` / `간단히:` depth. Keep user background and the current project in
+`references/user-context.md`.
+
 ## Install
 
 ### Individual skills — `npx skills`
